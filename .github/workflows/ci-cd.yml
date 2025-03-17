@@ -33,5 +33,5 @@ jobs:
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "Build Successful: Factorial Calculator"
           body: "The Java CI/CD pipeline for the Factorial Calculator has completed successfully!"
-          to: 2024.ayush.khorgade@ves.ac.in
+          to: ayushkhorgade2002@gmail.com
           from: "GitHub Actions"
